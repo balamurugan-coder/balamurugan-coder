@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Bagan G  
+# 👋 Hi, I’m Balamurugan Gandhi
 
 🚀 **AWS Cloud & DevOps Engineer** | Passionate about automation, cloud-native apps, and scalable infrastructure.  
 
